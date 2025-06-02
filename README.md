@@ -30,8 +30,8 @@ A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScr
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/tictactoe.git
+git clone https://github.com/manthandhote/TicTacToe.git
 
 # Open the game
-cd tictactoe
+cd TicTacToe
 start index.html  # Or open manually in a browser
